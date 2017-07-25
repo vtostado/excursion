@@ -29,3 +29,12 @@ h1{
 	font-weight: 300;
 	color: white;
 }
+
+footer{
+	text-align: right;
+	color: gray;
+	font-family: Verdana;
+	font-size: 20px;
+
+
+}
